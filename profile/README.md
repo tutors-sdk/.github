@@ -5,4 +5,6 @@ Welcome to the GitHub profile of Tutors. Tutors is a collection of open source c
 
 You can find out more about the project on [our website](https://tutors.dev).
 
-This project is licensed under the [MIT license]().
+This project is licensed under the [MIT license](https://github.com/tutors-sdk/tutors/blob/main/LICENSE).
+
+View our [Code of Conduct](https://github.com/tutors-sdk/tutors/blob/main/CODE_OF_CONDUCT.md) for contributors.
