@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<h1 align="center"> Tutors Open Source Project </h1>
+# Tutors Open Source Project
 
-<h3 align="center"> An Open Learning Web Toolkit </h3>
+### An Open Learning Web Toolkit
 
 Welcome to the GitHub profile of Tutors. Tutors is a collection of open source components & services supporting the creation of transformative learning experiences using open web standards.
 
