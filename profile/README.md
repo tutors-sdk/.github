@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://tutors.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="./assets/tutors-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/tutors-light.png">
+      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tutors-sdk/.github/main/profile/assets/tutors-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tutors-sdk/.github/main/profile/assets/tutors-light.png">
       <img alt="Text changing depending on mode. Light: 'Tutors Light Mode Logo' Dark: 'Tutors Dark Mode Logo'" src="./assets/tutors-light.png">
     </picture>    
   </a>
 </p>
 
-# Tutors Open Source Project
+<h1 align="center"> Tutors Open Source Project </h1>
 
 <h3 align="center"> An Open Learning Web Toolkit </h3>
 
